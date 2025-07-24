@@ -6,4 +6,4 @@ Extensión en [Chrome Web Store](https://chrome.google.com/webstore/detail/aanae
 
 La extensión solo funciona en unos dominios para los cuales ha sido preparada.
 Preview
-![image](https://github.com/Xaival/Preview-Pelis-Series/assets/54257745/155b494d-7736-43a6-a3fa-e2d8901ecc22)
+![image](https://github.com/user-attachments/assets/7766c528-5e10-48e5-9217-53e9cdb46aa5)
