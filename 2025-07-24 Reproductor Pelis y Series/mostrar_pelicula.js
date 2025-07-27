@@ -60,7 +60,6 @@ function mostrar_pelicula(Titulo, tabsLeng, tabsWeb) {
         background-color: black;
         width: 100vw;
         height: 100vh;
-        overflow: hidden;
         color: white;
         font-family: Arial;
       }
