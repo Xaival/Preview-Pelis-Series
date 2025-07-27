@@ -157,7 +157,7 @@ function mostrar_serie(Titulo, ListURL, PrevURL, NextURL, tabsLeng, tabsWeb) {
 
 
     /* Iframe */
-    iframe {width: 100%; height: calc(100% - 50px);}
+    iframe {width: 100%; height: calc(100% - 55px);}
 
 
     /*
