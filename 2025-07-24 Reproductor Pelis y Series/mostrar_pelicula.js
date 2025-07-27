@@ -149,7 +149,7 @@ function mostrar_pelicula(Titulo, tabsLeng, tabsWeb) {
 
 
       /* Iframe */
-      iframe {width: 100%; height: calc(100% - 50px);}
+      iframe {width: 100%; height: calc(100% - 55px);}
 
 
       /*
